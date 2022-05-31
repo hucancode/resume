@@ -2,7 +2,7 @@
   "basics":{
     "name":"Bang Nguyen Huu",
     "label":"Front End Developer",
-    "image":"/profile.jpg",
+    "image":"https://resume.hucanco.de/profile.jpg",
     "summary":"こんにちは〜、I’m a a passionate Front End Software Engineer. I build mobile applications and games for a living.",
     "website":"https://hucanco.de",
     "email":"hucancode@gmail.com",
