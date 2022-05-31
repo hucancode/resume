@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "resumed render -o build/index.html"
+    "build": "resumed render resume-jp.json -o build/jp/index.html; resumed render -o build/index.html"
   },
   "dependencies": {
     "jsonresume-theme-stackoverflow": "^2.0.0",

@@ -3,11 +3,11 @@
     "name":"Bang Nguyen Huu",
     "label":"Front End Developer",
     "image":"/profile.jpg",
-    "summary":"I’m a a passionate Front End Software Engineer. I build mobile applications and games for a living.",
+    "summary":"こんにちは〜、I’m a a passionate Front End Software Engineer. I build mobile applications and games for a living.",
     "website":"https://hucanco.de",
     "email":"hucancode@gmail.com",
     "location":{
-      "city":"Takamatsu",
+      "city":"高松",
       "countryCode":"JP"
     },
     "profiles":[
