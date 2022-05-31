@@ -7,7 +7,7 @@
     "website":"https://hucanco.de",
     "email":"hucancode@gmail.com",
     "location":{
-      "address":"Japan, Kagawa Prefecture, Takamatsu City",
+      "address":"Japan, Kagawa Prefecture, Takamatsu City"
     },
     "profiles":[
       {
@@ -28,7 +28,8 @@
         "Worked with Flutter, React Native, support all platform",
         "Hosted on EC2 Server, RDS",
         "Utilize Cloud Run to deploy containized applications",
-        "Building native moblile iOS with Swift (Swift UI), Kotlin"
+        "Building native moblile iOS with Swift (Swift UI), Kotlin",
+        "Building responsive web app with React, NextJS"
       ],
       "summary":"I am in charge of software engineering department in GoodCreate. I discuss the requirements, provide technical advices, propose high level solutions. I developed highly interactive mobile applications using Swift and Kotlin. I do research and development activity. Explore potential use of Flutter in future projects.",
       "website":"https://gc-c.co.jp",

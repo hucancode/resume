@@ -7,7 +7,7 @@
     "website":"https://hucanco.de",
     "email":"hucancode@gmail.com",
     "location":{
-      "address":"日本、香川県、高松市",
+      "address":"日本、香川県、高松市"
     },
     "profiles":[
       {
@@ -28,7 +28,8 @@
         "Flutter、React Nativeを使って、すべてのプラットフォームをサポート",
         "EC2サーバー、RDSでホスト",
         "CloudRunを利用してコンテナ化されたアプリケーションをデプロイする",
-        "Swift（Swift UI）、Kotlinを使用してネイティブのモバイルiOSを構築する"
+        "Swift（Swift UI）、Kotlinを使用してネイティブのモバイルiOSを構築する",
+        "React、NextJSを使用してレスポンシブ的なWebアプリを構築する"
       ],
       "summary":"グッドクリエイト社のソフトウェアエンジニアリング部門を担当しています。要件について話し合い、技術的なアドバイスを提供し、高レベルのソリューションを提案します。SwiftとKotlinを使用して高度にインタラクティブなモバイルアプリケーションを開発しました。私は研究開発活動を行っています。将来のプロジェクトでのFlutterの潜在的な使用法を探ります。",
       "website":"https://gc-c.co.jp",
