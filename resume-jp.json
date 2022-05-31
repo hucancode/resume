@@ -1,7 +1,7 @@
 {
   "basics":{
     "name":"Bang Nguyen Huu",
-    "label":"Front End Developer",
+    "label":"フロントエンドの開発者",
     "image":"https://resume.hucanco.de/profile.jpg",
     "summary":"バンと申します、熱心なフロントエンドソフトエンジニアです。<br/>暮らしのため、モバイルアプリケーションとゲームを構築します。",
     "website":"https://hucanco.de",
@@ -35,7 +35,7 @@
       "website":"https://gc-c.co.jp",
       "pinned":true,
       "name":"グッドクリエイト",
-      "location":"🇯🇵 香川",
+      "location":"日本、香川",
       "position":"エンジニアマネージャー",
       "startDate":"2020-07-01"
     },
@@ -43,7 +43,7 @@
       "summary":"私は2016年6月にFPTSoftwareに参加し、200万行のコードでC++プロジェクトに挑戦する5人のチームを率いています。 自動車機器向けのエンターテインメントシステムを開発するチームに参加しました。 それはQtで構築されたメディア再生アプリケーションでした。 私は機能の実装と全体的なパフォーマンスの最適化を担当しています。 FPT Softwareでの2年間、私はプロジェクト管理に関するさまざまなトレーニングを受けました。 私は小さなチームを管理する方法を学び、それでかなり成功しました。 2016年のベストルーキーオブザイヤーとして表彰されました。",
       "website":"https://www.fpt-software.com/",
       "name":"FPT ソフトウェア",
-      "location":"🇻🇳 ハノイ",
+      "location":"ベトナム、ハノイ",
       "position":"シニア開発者",
       "startDate":"2016-06-01",
       "endDate":"2018-06-01",
@@ -59,7 +59,7 @@
       "summary":"Gameloft AI Contest 2013に参加し、準々決勝で終了しました。 C ++ゲームプログラマーとして始めた私は、コンピューターグラフィックスに興味を持ちました。 私はゲームプレイプログラミングとゲームのグラフィック最適化を担当しています。 私はOpenGL、シェーダープログラミング、およびさまざまなグラフィックデバッグツールのトレーニングを受けています。",
       "website":"https://gameloft.com/",
       "name":"ゲームロフト",
-      "location":"🇻🇳 ハノイ",
+      "location":"ベトナム、ハノイ",
       "position":"シニアゲーム開発者",
       "startDate":"2014-03-14",
       "highlights":[
@@ -143,10 +143,10 @@
       "name":"外国語勉強"
     },
     {
-      "name":"Linux / Open Source"
+      "name":"Linux / オープンソース"
     },
     {
-      "name":"I use Arch BTW"
+      "name":"ちなみにArchを使っています"
     }
   ],
   "meta":{
