@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "resumed render"
+  },
+  "dependencies": {
+    "jsonresume-theme-stackoverflow": "^2.0.0",
+    "resumed": "^1.0.3"
+  }
+}
