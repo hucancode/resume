@@ -35,6 +35,7 @@
       "website":"https://gc-c.co.jp",
       "pinned":true,
       "name":"Good Create",
+      "location":"🇯🇵 Kagawa",
       "position":"Engineering Manager",
       "startDate":"2020-07-01"
     },
@@ -42,7 +43,7 @@
       "summary":"I joined FPT Software on June 2016 and lead a team of 5 challenging a C++ project with 2 millions lines of code. I joined a team developing an entertainment system for Automobile devices. That was media playing application, built with Qt. I am in charge of feature implementation and overall performance optimization. Over the course of 2 years at FPT Software, I have received various training on Project Management. I learned how to manage a small team and was pretty successful at it. I was received honorable mention as Best Rookie of The Year 2016.",
       "website":"https://www.fpt-software.com/",
       "name":"FPT Software",
-      "location":"Hanoi",
+      "location":"🇻🇳 Hanoi",
       "position":"Senior Developer",
       "startDate":"2016-06-01",
       "endDate":"2018-06-01",
@@ -58,7 +59,7 @@
       "summary":"I have taken part in Gameloft AI Contest 2013, I finished at Quater Final. Started out as a C++ Game Programmer, I developed my interest in Computer Graphics. I am in charge of gameplay programming and graphics optimization for games. I am well trained in OpenGL, shader programming and various graphics debugging tools.",
       "website":"https://gameloft.com/",
       "name":"Gameloft",
-      "location":"Hanoi",
+      "location":"🇻🇳 Hanoi",
       "position":"Senior Game Programmer",
       "startDate":"2014-03-14",
       "highlights":[
@@ -75,7 +76,7 @@
       "startDate":"2014-06-01",
       "area":"Software Engineering",
       "studyType":"Bachelors",
-      "institution":"HungYen University of Technology & Education"
+      "institution":"Hung Yen University of Technology & Education"
     },
     {
       "endDate":"2020-04-01",
