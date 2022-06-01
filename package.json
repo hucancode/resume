@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "build": "resumed render resume-jp.json -o build/jp.html; resumed render -o build/index.html"
+    "build": "resumed render resume-jp.json -o build/jp/index.html; resumed render -o build/index.html",
+    "deploy": "touch build/.nojekyll && rm out/.DS_Store; gh-pages -d build --dotfiles true"
   },
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "jsonresume-theme-stackoverflow": "^2.0.0",
     "resumed": "^1.0.3"
   }
